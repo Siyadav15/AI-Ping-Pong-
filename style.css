@@ -1,0 +1,32 @@
+#start,#status{
+    font-size: 22px;
+ 
+}
+
+.heading button{
+    float: right;
+   
+}
+.heading h3{
+    display: inline;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+   
+}
+
+.modal-dialog{
+    width: 90%;
+}
+h4{
+  
+    line-height: 2px;
+    margin: 0px;
+}
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
